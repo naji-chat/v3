@@ -5,7 +5,7 @@ import SignUpForm from "./SignUpForm";
 import LogInForm from "./LogInForm";
 
 const AuthPage = () => {
-  const [hasAccount, setHasAccount] = useState(false);
+  const [hasAccount, setHasAccount] = useState(true);
 
   const backgroundImage = {
     backgroundImage: `url(${valley})`, // Here due to variable
