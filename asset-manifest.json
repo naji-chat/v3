@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/naji-chat-v3/static/css/main.fa727873.css",
+    "main.js": "/naji-chat-v3/static/js/main.a94286c7.js",
+    "static/media/valley.jpeg": "/naji-chat-v3/static/media/valley.e7396bfed7eb653279f1.jpeg",
+    "static/media/VisbyRoundCF-Heavy.woff": "/naji-chat-v3/static/media/VisbyRoundCF-Heavy.5b14967687bb1ecf4295.woff",
+    "static/media/VisbyRoundCF-Regular.woff": "/naji-chat-v3/static/media/VisbyRoundCF-Regular.78ce79eac18796023f1b.woff",
+    "static/media/VisbyRoundCF-DemiBold.woff": "/naji-chat-v3/static/media/VisbyRoundCF-DemiBold.ecce87927ba286ccd634.woff",
+    "index.html": "/naji-chat-v3/index.html",
+    "main.fa727873.css.map": "/naji-chat-v3/static/css/main.fa727873.css.map",
+    "main.a94286c7.js.map": "/naji-chat-v3/static/js/main.a94286c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa727873.css",
+    "static/js/main.a94286c7.js"
+  ]
+}
